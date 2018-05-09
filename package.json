@@ -1,9 +1,10 @@
 {
   "name": "paper-autocomplete",
   "description": "Material Design autocomplete component.",
-  "version": "3.7.0",
+  "version": "3.7.1",
   "author": "S. Francis <sfrancis@misinteractive.com>",
   "contributors": [
+    "Etaletai <13@etaletai.com>",
     "Rodolfo Oviedo <rodo1111@gmail.com>",
     "Alfonso Aguilar <laltfuns@gmail.com>",
     "Oliver Hamlet <oliver.hamlet@gmail.com>",
@@ -18,7 +19,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ellipticaljs/paper-autocomplete.git"
+    "url": "https://github.com/etaletai13/paper-autocomplete.git"
   },
   "scripts": {
     "start": "polymer serve -o",
