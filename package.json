@@ -23,7 +23,7 @@
   },
   "scripts": {
     "start": "polymer serve -o",
-    "postinstall": "bower install --quiet",
+    "postinstall": "node_modules/bower/bin/bower install --quiet",
     "test": "polymer test --plugin local",
     "test:remote": "polymer test --plugin sauce",
     "lint": "eslint --cache paper-autocomplete*.html test/paper*.html && polymer lint paper-autocomplete*.html --rules polymer-2-hybrid",
